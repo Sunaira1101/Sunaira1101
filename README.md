@@ -4,9 +4,26 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
 ###
 ###
 
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Sunaira1101&theme=dark&background=000000" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaira1101&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sunaira1101&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaira1101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **Sunaira1101/Sunaira1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
