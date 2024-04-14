@@ -21,7 +21,7 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<br><br><br>
+<br>
 
 <table>
   <tr>
