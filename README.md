@@ -1,8 +1,6 @@
 Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for soaking up knowledge and making a positive impact. As I navigate through the programming realm, I am not just seeking grades but soaking in every ounce of experience. My current passion lies in gaining knowledge and mastering the concepts of Machine Learning and AI. I hope to excel on this coding adventure, where every challenge is a chance to learn and every project is a step closer to my goals.
 
-###
-###
-###
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,7 +19,7 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
+<br><br>
 
 <table>
   <tr>
