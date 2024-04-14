@@ -19,6 +19,8 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
   </tr>
 </table>
 
+![image title](https://rushter.com/counter.svg)
+
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sunaira1101&theme=dark&background=000000)](https://git.io/streak-stats)
 
