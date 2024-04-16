@@ -30,6 +30,8 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
 <a href="mailto:fhsunaira@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaira1101&label=Profile%20views&color=0e75b6&style=flat" alt="sunaira1101" /> </p>
 
 
