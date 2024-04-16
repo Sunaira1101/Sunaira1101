@@ -22,7 +22,7 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunaira1101&" alt="sunaira1101" /></p>
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:woman_technologist: Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahrin-hossain-sunaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrin-hossain-sunaira" height="30" width="40" /></a>
 <a href="https://fb.com/fahrinhossain.sunaira.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahrinhossain.sunaira.3" height="30" width="40" /></a>
