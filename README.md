@@ -26,7 +26,7 @@ Hey there! I am Fahrin Hossain Sunaira, a CSE student with a burning passion for
 <p align="left">
 <a href="https://linkedin.com/in/fahrin-hossain-sunaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrin-hossain-sunaira" height="30" width="40" /></a>
 <a href="https://fb.com/fahrinhossain.sunaira.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahrinhossain.sunaira.3" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" height="30" width="40" title="Discord: sunaira#3607"/>
+<a href="https://discord.gg/sunaira3607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sunaira3607" height="30" width="40" /></a>
 <a href="mailto:fhsunaira@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" /></a>
 </p>
 
